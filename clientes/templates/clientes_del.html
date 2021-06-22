@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load bootstrap4 %}
+{% block content  %}
+
+<form style="text-align:center" method="post">
+    {% csrf_token %}
+    <h3 class="text-center alert alert-danger">Tem certeza que deseja Deletar o Cliente "{{ object }}"?</h3>
+
+    {% buttons %}
+    <button type="submit" class="btn btn-danger"><span><i class="fas fa-check"></i></span></button>
+    <button type="button" class="btn btn-warning">
+        <a href="{% url 'list' %}"><span><i class="fas fa-times"></i></span></a>
+    </button>
+    {% endbuttons %}
+</form>
+
+{% endblock %}
