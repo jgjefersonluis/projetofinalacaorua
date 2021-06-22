@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'servicos',
     'diario',
     'tarefas',
+    'graficos',
 
 ]
 
