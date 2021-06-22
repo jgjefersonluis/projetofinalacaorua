@@ -1,0 +1,27 @@
+{% extends  'base.html' %}
+{% load crispy_forms_tags %}
+
+{% block title %}Entrar{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-3 offset-md-5">
+        <div class="card  auth-card">
+            <div class="card-body">
+                <h4 class="card-title text-center">Sistema Ação Rua</h4>
+
+                <form style="text-align:center" method="post">
+                    {% csrf_token %}
+                    <input type="hidden" name="next" value="{{ next }}">
+
+                    {{ form|crispy }}
+                    <p></p>
+                    <button type="submit" class="btn btn-primary btn-block">Entrar</button>
+                </form>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

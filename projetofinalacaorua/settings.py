@@ -31,6 +31,9 @@ INSTALLED_APPS = [
     'diario',
     'tarefas',
     'graficos',
+    'users',
+    'accounts',
+
 
 ]
 
