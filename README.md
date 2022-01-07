@@ -10,3 +10,7 @@ anotam outras informações uteis ou que acham pertinente para poder traçar um 
 Tudo isso é feito de forma manual, fazem o preenchimento e vão para instituição, inserindo as informações em uma planilha eletrônica. 
 Razões particulares e ideológicas, despertaram o interesse de poder ajudar de alguma forma. Desta maneira pensei que um sistema pode melhorar a qualidade do serviço, 
 pode automatizar os processos e agilizar a execução das tarefas.
+![login](https://user-images.githubusercontent.com/47151248/148503728-283a9824-3e50-43d8-8754-bddec493c398.png)
+![listaClientes](https://user-images.githubusercontent.com/47151248/148503727-37ccc55b-6005-4870-b38d-b0de1528dad6.png)
+![addTarefas](https://user-images.githubusercontent.com/47151248/148503723-298b9622-3d56-4165-a652-112520d572c9.png)
+
