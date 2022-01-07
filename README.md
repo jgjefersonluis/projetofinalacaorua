@@ -1,4 +1,5 @@
 # projetofinalacaorua
+
 O projeto tem como objetivo principal auxiliar o serviço de ação rua, uma politica pública que constitui um conjunto de ações integradas que vem mudando a realidade 
 das pessoas em situação de rua.
 O trabalho é feito por instituições pública e privadas. 
@@ -12,5 +13,6 @@ Razões particulares e ideológicas, despertaram o interesse de poder ajudar de 
 pode automatizar os processos e agilizar a execução das tarefas.
 ![login](https://user-images.githubusercontent.com/47151248/148503728-283a9824-3e50-43d8-8754-bddec493c398.png)
 ![listaClientes](https://user-images.githubusercontent.com/47151248/148503727-37ccc55b-6005-4870-b38d-b0de1528dad6.png)
-![addTarefas](https://user-images.githubusercontent.com/47151248/148503723-298b9622-3d56-4165-a652-112520d572c9.png)
 
+
+Post do Projeto: https://jgjefersonluis.medium.com/projeto-final-de-ads-sistema-web-abordagem-a%C3%A7%C3%A3o-rua-86392d39020c
